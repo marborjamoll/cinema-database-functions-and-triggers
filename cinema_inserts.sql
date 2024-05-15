@@ -44,7 +44,7 @@ INSERT INTO Purchases (buyer_id, purchase_time, payment_method) VALUES
 (2, '2023-12-10 10:15:00', 'PayPal');
 
 INSERT INTO Tickets (show_id, seat_number, purchase_id, price) VALUES
-(10, 'A1', 1, 12.50),
-(10, 'A2', 1, 12.50),
-(11, 'B1', 2, 15.00),
-(11, 'B2', 2, 15.00);
+(1, 'A1', 1, 12.50),
+(1, 'A2', 1, 12.50),
+(2, 'B1', 2, 15.00),
+(2, 'B2', 2, 15.00);
