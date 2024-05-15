@@ -137,7 +137,7 @@ The code of the views, functions, procedures and triggers is in the `cinema_usag
 ### 3.1 Procedure: insert show <a name="insert_show"></a>
 ```
 Procedure name: 
-    show_duration
+    insert_show
 
 Parameters:
    movie id (INT)
