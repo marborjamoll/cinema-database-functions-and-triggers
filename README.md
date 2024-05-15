@@ -255,10 +255,3 @@ Let's create some tests for this procedure:
     ```
     You'll gt the error `The show can not be created (2)`. This means, the show can't be inserted because will overlap with the next show.
 
-
-
-|--|--|--|--|--|
-|10|1|1|2023-12-15 14:00:00|150|
-|11|2|2|2023-12-15 16:00:00|180|
-|12|3|3|2023-12-15 18:00:00|120|
-|13|4|4|2023-12-15 20:00:00|145|
